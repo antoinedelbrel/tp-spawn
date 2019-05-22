@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+}
+.button{
+    float:right;
+}
+.add{
+    display:flex;
+}
